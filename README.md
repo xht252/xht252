@@ -26,6 +26,7 @@
 ### 我的学习
 
 - [Java pcap4j 计算机网络学习](https://github.com/xht252/pcap4j_network_homework)
+- [软件工程](https://github.com/xht252/software_project)
 
 ### 关于我
 
