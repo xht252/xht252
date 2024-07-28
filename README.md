@@ -27,6 +27,7 @@
 
 - [Java pcap4j 计算机网络学习](https://github.com/xht252/pcap4j_network_homework)
 - [软件工程](https://github.com/xht252/software_project)
+- [基于flask+css+vue+js开发的web前端+基于llama的大模型训练](https://github.com/xht252/Llama_WebGPT)
 
 ### 关于我
 
