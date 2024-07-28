@@ -1,10 +1,8 @@
 ## Hello GitHub Fans 👋
 
-[![QQ](https://img.shields.io/badge/QQ-3066927051-red.svg "QQ号")]
-[![QQ邮箱](https://img.shields.io/badge/邮箱-3066927051.@qq.com-red.svg "QQ邮箱")]
-
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
+![QQ](https://img.shields.io/badge/QQ-3066927051-red.svg "QQ号")
+![QQ邮箱](https://img.shields.io/badge/邮箱-3066927051@qq.com-red.svg "QQ邮箱")
+![Gmail邮箱](https://img.shields.io/badge/邮箱-xuehaotian252@gmail.com-red.svg "Gmail邮箱")
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
