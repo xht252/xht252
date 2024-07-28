@@ -17,7 +17,7 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C++&logoColor=FCC624)
+  ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C&logoColor=FCC624)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FF4800)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
